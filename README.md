@@ -3,7 +3,7 @@
 ### Useful References
 
 Radial Velocity:
-- [Good primer on RVs in eaps](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radial-velocity)
+- [Good overview on RVs in EAPS](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radial-velocity)
 
 APOGEE:
 - [APOGEE general info page](https://www.sdss.org/dr16/irspec/)
