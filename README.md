@@ -2,6 +2,9 @@
 
 ### Useful References
 
+Radial Velocity:
+- [Good primer on RVs in eaps](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radial-velocity)
+
 APOGEE:
 - [APOGEE general info page](https://www.sdss.org/dr16/irspec/)
 - Deshpande et al. 2013, _The SDSS-II APOGEE Radial Velocity Survey of M Dwarfs I: Description of Survey and Science Goals_
