@@ -23,3 +23,6 @@ Principal Component Analysis:
 - [Intro to PCA slides](http://web.ipac.caltech.edu/staff/fmasci/home/astro_refs/PrincipalComponentAnalysis.pdf)
 - [Datacamp tutorial](https://www.datacamp.com/community/tutorials/principal-component-analysis-in-python)
 - [Nick McCullum tutorial](https://nickmccullum.com/python-machine-learning/principal-component-analysis-python/)
+
+Data Science:
+- [2020 Penn Data Science Hangout](https://bjain7.wixsite.com/datahangout2020)
