@@ -12,6 +12,8 @@ APOGEE:
 - Troup et al. 2016, _Companions to APOGEE Stars I: A Milky Way-Spanning Catalog of Stellar and Substellar Companion Candidates and Their Diverse Hosts_
 - [allVisit data model](https://data.sdss.org/datamodel/files/APOGEE_ASPCAP/APRED_VERS/ASPCAP_VERS/allVisit.html)
 - [Using radial velocities](https://www.sdss.org/dr16/irspec/use-radial-velocities/)
+- [APOGEE flags](https://urldefense.com/v3/__https://www.sdss.org/dr12/algorithms/bitmasks/*APOGEE_STARFLAG__;Iw!!IBzWLUs!B6tPIBwbkIDmTyotWxAGqK4pe_9nc0F9olr-PFVDu-KeFQ9P-Qy-TkjURhKD1yZSBw$)
+- [SDSS bitmasks](https://www.sdss.org/dr12/algorithms/bitmasks/)
 
 FITS Files:
 - [FITS format primer](https://fits.gsfc.nasa.gov/fits_primer.html)
