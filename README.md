@@ -28,3 +28,6 @@ Principal Component Analysis:
 
 Data Science:
 - [2020 Penn Data Science Hangout](https://bjain7.wixsite.com/datahangout2020)
+
+Other Statistical Techniques:
+- [PyMC3 Quick Start Guide](https://docs.pymc.io/en/v3/pymc-examples/examples/pymc3_howto/api_quickstart.html)
